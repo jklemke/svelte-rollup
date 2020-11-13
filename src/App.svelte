@@ -4,13 +4,14 @@
 </script>
 
 <style>
-  h1 {
-    color: navy
-  }
   h2 {
+    color: red
+  }
+  h3 {
     color: green
   }
 </style>
 
-<h1>Hello {name}!</h1>
-<h2>What a {trait} person you are.</h2>
+<h2>Hello {name}!</h2>
+<h3>{trait} weather, ain't it?</h3>
+

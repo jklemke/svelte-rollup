@@ -8,5 +8,10 @@ npm install --save-dev rollup svelte rollup-plugin-svelte
 
 npm install --save-dev @rollup/plugin-node-resolve
 
+npm install --save-dev sirv-cli
+
+npm install --save-dev rollup-plugin-livereload
 
 npm run build
+npm run start
+npm run dev
