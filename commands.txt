@@ -1,0 +1,12 @@
+svelte rollup commands
+
+git init
+
+npm init
+
+npm install --save-dev rollup svelte rollup-plugin-svelte
+
+npm install --save-dev @rollup/plugin-node-resolve
+
+
+npm run build
